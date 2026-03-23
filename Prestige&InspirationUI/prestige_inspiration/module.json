@@ -1,0 +1,42 @@
+{
+  "id": "prestige_inspiration",
+  "title": "Prestige & Inspiration CtrlAltDefeat",
+  "description": "Meta Currency Manager (Inspiration & Prestige) with UI, chat announcements, and GM tools.",
+  "version": "0.0.3",
+  "authors": [
+    {
+      "name": "CtrlAltDefeat"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system"
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/prestigeInspiration.js"
+  ],
+  "packs": [
+    {
+      "name": "prestige-inspiration-macros",
+      "label": "Prestige & Inspiration CtrlAltDefeat",
+      "path": "packs/prestige-inspiration-macros.db",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://www.patreon.com/Ctrl_Alt_Defeat",
+  "manifest": "https://github.com/CtrlAltDefeatAM/Prestige-Inspiration-UI-CtrlAltDefeat/releases/latest/download/module.json",
+  "download": "https://github.com/CtrlAltDefeatAM/Prestige-Inspiration-UI-CtrlAltDefeat/releases/download/0.0.3/module.zip"
+}
