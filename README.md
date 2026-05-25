@@ -49,8 +49,12 @@ A sleek, lightweight, and highly customizable Meta Currency Manager for Foundry 
 
 ---
 
-## 🤝 Support & Community
+## Main Links
 
-If you enjoy this module and want to support the creation of more Foundry VTT tools, macros, and content:
-* [Join the Developer Discord!](https://discord.gg/fBf7xw2bmB)
-* [Support the Creator on Patreon!](https://www.patreon.com/Ctrl_Alt_Defeat)
+- **Main Hub:** https://ctrlaltdefeat.carrd.co/
+- **Patreon:** https://www.patreon.com/Ctrl_Alt_Defeat
+- **StartPlaying:** https://startplaying.games/gm/ctrl-alt-defeat
+- **YouTube:** https://www.youtube.com/@Ctrl_Alt_Defeat-GM
+- **Homebrewery:** https://homebrewery.naturalcrit.com/share/LtF88dEE8z1S
+- **GitHub:** https://github.com/CtrlAltDefeatAM
+- **Discord:** https://discord.gg/fB7xw2bmB
