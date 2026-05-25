@@ -1,4 +1,4 @@
-# Prestige & Inspiration UI
+# Prestige Inspiration Wanted Tracker UI | CtrlAltDefeat
 > **Created by CtrlAltDefeat**
 
 A sleek, lightweight, and highly customizable Meta Currency Manager for Foundry VTT. Originally designed to support standard D&D 5e Inspiration alongside specialized homebrew mechanics like Pirate Prestige and Crew Reputation (perfect for One Piece D&D campaigns), this module provides a unified, synced interface for your entire table.
